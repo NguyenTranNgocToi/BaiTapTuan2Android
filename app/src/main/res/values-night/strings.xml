@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hire_me">HIRE ME</string>
+    <string name="portfolio">PORTFOLIO</string>
+    <string name="donald_trump_is_closely_associated_with_n_the_sport_of_golf_as_a_real_estate_n_developer_trump_began_acquiring_and_n_constructing_golf_courses_in_1999">Donald Trump is closely associated with \n the sport of golf. As a real estate \n developer, Trump began acquiring and \n constructing golf courses in 1999</string>
+    <string name="todo">TODO</string>
+    <string name="full_stack_developer_android_ui">Full Stack developer, Android UI</string>
+    <string name="_178">178</string>
+    <string name="projects">projects</string>
+    <string name="rating">rating</string>
+</resources>
